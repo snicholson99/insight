@@ -1,0 +1,58 @@
+{
+  "insights": [
+    {
+      "title": "The Fundamentals of Web Development",
+      "authorName": "Scott Nicholson",
+      "authorId": "A1",
+      "category": "Web Development",
+      "tags": ["html", "css", "javascript", "js", "web development", "webdev"],
+      "bannerUrl": "https://picsum.photos/620",
+      "likes": 37
+    },
+    {
+      "title": "Effective Marketing Strategies",
+      "authorName": "George T. Smith",
+      "authorId": "A2",
+      "category": "Marketing",
+      "tags": [],
+      "bannerUrl": "https://picsum.photos/600",
+      "likes": 74
+    },
+    {
+      "title": "An Introduction to CSS Animation",
+      "authorName": "Scott Nicholson",
+      "authorId": "A1",
+      "category": "Web Development",
+      "tags": ["css", "animation", "keyframes"],
+      "bannerUrl": "https://picsum.photos/400",
+      "likes": 29
+    },
+    {
+      "title": "Taking Inspiration",
+      "authorName": "Fred King",
+      "authorId": "A3",
+      "category": "Art",
+      "tags": ["artists", "inspiration", "fame"],
+      "bannerUrl": "https://picsum.photos/550",
+      "likes": 129
+    },
+    {
+      "title": "How To: Release Music to Spotify",
+      "authorName": "How To",
+      "authorId": "A4",
+      "category": "Music",
+      "tags": ["music", "spotify", "publishing"],
+      "bannerUrl": "https://picsum.photos/350",
+      "likes": 180
+    },
+    {
+      "title": "React vs Angular",
+      "authorName": "Jess Wishart",
+      "authorId": "A5",
+      "category": "Web Development",
+      "tags": ["react", "angular", "web development"],
+      "bannerUrl": "https://picsum.photos/500",
+      "likes": 7
+    }
+  ]
+}
